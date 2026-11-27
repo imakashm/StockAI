@@ -1,0 +1,6 @@
+{
+  "name": "StockMind AI",
+  "description": "Indian Stock Market Analytics, Technical Analysis, and AI Trend Prediction platform for NSE and BSE equities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
